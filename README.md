@@ -21,8 +21,8 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
-link to site: https://childishmartino.github.io/homework06/
+link to site: https://childishmartino.github.io/Weather-Dashboard/
 
-link to repo: https://github.com/childishmartino/homework06
+link to repo: https://github.com/childishmartino/Weather-Dashboard
 
 ![screenshot of homework.](./assets/images/screenshothomework06.png)
